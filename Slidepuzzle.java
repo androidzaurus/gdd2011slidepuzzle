@@ -9,7 +9,7 @@ import java.util.LinkedList;
 public class Slidepuzzle {
 
 	private static final String infilename = "/path/to/devquiz2011/slidepuzzle/slidepannel.txt";
-	private static final String mergedfile = "//path/to/devquiz2011/slidepuzzle/merged-2957.txt";
+	private static final String mergedfile = "/path/to/devquiz2011/slidepuzzle/merged-2957.txt";
 	private static int gameCounts;
 	private static int [] moveLimits;
 	private static Deque <Game> gameQue;
