@@ -431,7 +431,7 @@ public class Slidepuzzle {
 			manhattan += step;
 			return manhattan;
 		}
-}
+	}
 }
 
 /* $ cd bin
